@@ -1,6 +1,7 @@
 # RoadAccidentDataAnalysis_PowerBI
 
-####Requirement:
+#### Requirement:
+
 Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements:
 - 1.	Primary KPI-Total Causalities and Total Accident values for current year and YoY growth
 - 2.	Primary KPI’s-Total Causalities by Accident Severity for Current Year and YoY growth
@@ -9,8 +10,8 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 - 5.	Causalities by Road Type for Current Year
 - 6.	Current Year Causalities by Area/Location & by Day/Night
 - 7.	Total Causalities and Total Accidents by Location
-  8.	
-####Stakeholders
+  	
+#### Stakeholders
 
 •	Minister of Transport
 •	Road Transport Department
@@ -22,7 +23,8 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 •	Public
 •	Media
 
-####Functionalities
+#### Functionalities
+
 •	Connect to raw data/flat file
 •	Data Cleaning in Power query
 •	Data Processing
